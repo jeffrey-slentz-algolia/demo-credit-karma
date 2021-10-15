@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+.ais-SearchBox-input {
+  width: 70%;
+  min-width: 85%;
+}
+
+.ais-Pagination-item {
+  display: inline;
+  padding: 5px;
+}
+
+.ais-PoweredBy {
+  margin-top: 10px;
+}
+
+.search-panel {
+  display: flex;
+}
+.search-panel__filters {
+  padding-right: 20px;
+  min-width: 120px;
+}
+
+#hits ul {
+  padding-left: 0px;
+}
